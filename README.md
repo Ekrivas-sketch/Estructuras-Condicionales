@@ -1,1 +1,1 @@
-Taller de estrucutras de consiciones
+Taller de estrucutras de condiciones
